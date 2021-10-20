@@ -18,5 +18,5 @@
 
 # Various CLassification Performance review
 
-![Classification Algorithm Acc - Loss](/Performance_Graphs/Acc_Scores.PNG)
+![Classification Algorithm Acc - Loss](/Performance_Graphs/Acc_Scores.PNG = 1000x)
 ![Classification Algorithm Acc - Loss](/Performance_Graphs/Scores.PNG)
