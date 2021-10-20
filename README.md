@@ -19,4 +19,4 @@
 # Various CLassification Performance review
 
 <img src="/Performance_Graphs/Acc_Scores.PNG" width="1005">
-![Classification Algorithm Acc - Loss](/Performance_Graphs/Scores.PNG)
+<img src="/Performance_Graphs/Scores.PNG">
