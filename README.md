@@ -12,9 +12,9 @@
 
 # Bi-LSTM Final performance graph
 
-<img src="/Performance_Graphs/4.png" width="1000" height="600">
-<img src="/Performance_Graphs/5.png" width="500" height="300">
-<img src="/Performance_Graphs/6.png" width="500" height="300">
+<img src="/Performance_Graphs/4.png" width="600" height="400">
+<img src="/Performance_Graphs/5.png" width="600" height="400">
+<img src="/Performance_Graphs/6.png" width="600" height="400">
 
 # Various CLassification Performance review
 
