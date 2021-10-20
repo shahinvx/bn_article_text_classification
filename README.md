@@ -7,8 +7,9 @@
 - `python Predict_Your_Text.py`
 
 # Predict_Your_Text.py preview
-
+- `Train Accuracy 90.34 % , Train Loss 0.288 and Validation Accuracy 90.56 % , Validation Loss 0.279. (Bi-LSTM_V2.ipynb) for better understanding and Graph of Performance.`
 ![Predict Your Text](/Performance_Graphs/Check_Your_Text.PNG)
+
 
 # Bi-LSTM Final performance graph
 
