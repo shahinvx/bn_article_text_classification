@@ -12,12 +12,11 @@
 
 # Bi-LSTM Final performance graph
 
-![Bi-LSTM Performance_Graphs](/Performance_Graphs/4.png)
-![Bi-LSTM Performance_Graphs](/Performance_Graphs/5.png)
-![Bi-LSTM Performance_Graphs](/Performance_Graphs/6.png)
+<img src="/Performance_Graphs/4.png" width="1000" height="600">
+<img src="/Performance_Graphs/5.png" width="500" height="300">
+<img src="/Performance_Graphs/6.png" width="500" height="300">
 
 # Various CLassification Performance review
 
-![Classification Algorithm Acc - Loss](/Performance_Graphs/Acc_Scores.PNG = 1000x)
-<img src="/Performance_Graphs/Acc_Scores.PNG" width="1000">
+<img src="/Performance_Graphs/Acc_Scores.PNG" width="1005">
 ![Classification Algorithm Acc - Loss](/Performance_Graphs/Scores.PNG)
