@@ -1,0 +1,6 @@
+Classifier,Accuracy,Log Loss
+MultinomialNB,87.17320714,0.659748965
+LogisticRegression,89.54373677,0.354715049
+LinearSVC,90.89246728,0.563905441
+DecisionTreeClassifier,69.64635998,10.48306082
+KNeighborsClassifier,83.92384161,2.018267606
